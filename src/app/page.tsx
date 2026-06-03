@@ -44,7 +44,7 @@ export default function LandingPage() {
       ]}
       brandName="Gabriel Santos Pendon"
       button={{
-        text: "Kostenlos beraten lassen",        href: "#contact"}}
+        text: "Kostenlos beraten lassen",          href: "#contact"}}
     />
   </div>
 
@@ -175,7 +175,7 @@ export default function LandingPage() {
         variant: "radial-gradient"}}
       tag="Ihr Weg zur professionellen Online-Präsenz"
       title="Kostenlos beraten lassen"
-      description="Ich bin Gabriel Santos Pendon, Ihr Webdesigner in Dortmund. \n\nE-Mail: g.pendon@icloud.com\nTelefon: 0152 54593606\nStandort: Dortmund\n\nSenden Sie mir eine kurze Nachricht (E-Mail) und ich melde mich umgehend bei Ihnen:"
+      description="Ich bin Gabriel Santos Pendon, Ihr Webdesigner in Dortmund. E-Mail: webdesign.santospendon@gmail.com Standort: Dortmund Senden Sie mir eine kurze Nachricht und ich melde mich umgehend bei Ihnen."
       inputPlaceholder="Ihre E-Mail-Adresse für die erste Kontaktaufnahme"
       buttonText="Nachricht senden"
       termsText="Mit dem Absenden stimmen Sie meinen Datenschutzbestimmungen zu."
